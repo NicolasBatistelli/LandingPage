@@ -8,7 +8,7 @@
 
 ## Overview
 
-![screenshot]([https://github.com/NicolasBatistelli/LandingPage/assets/img/webscreen.png](https://raw.githubusercontent.com/NicolasBatistelli/LandingPage/main/assets/img/webscreen.png))
+![screenshot](https://raw.githubusercontent.com/NicolasBatistelli/LandingPage/main/assets/img/webscreen.png)
 
 ## Contact
 
