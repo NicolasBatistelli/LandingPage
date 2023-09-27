@@ -1,0 +1,159 @@
+body{
+    background-image: url(../assets/img/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.header_image{
+    height: 4rem;
+    margin-left: 2rem;
+}
+
+ul{
+    list-style-type: none;
+    margin-right: 1rem;
+}
+
+a{
+    text-decoration: none;
+    color: #222F40;
+}
+
+li{
+    display: flex;
+    font-family: 'Mooli', sans-serif;
+    font-weight: 800;
+    font-size: 1.5rem;
+}
+
+.main_section{
+    display: flex;
+    justify-content: center;
+    margin: 3rem 0 0 1rem;
+}
+
+.main_section_text{
+    width: 20rem;
+    margin-right: 7rem;
+}
+
+.main_section__text1{
+    font-family: 'Mooli', sans-serif;
+    font-size: 2.2rem;
+    margin: 0 0 0.5rem 0;
+}
+
+.main_section__text2{
+    font-family: 'Mooli', sans-serif;
+    font-size: 1.2rem;
+    margin-top: 0.5rem;
+}
+
+.main_section__image img{
+    height: 20rem;
+}
+
+.button{
+    font-family: 'Mooli', sans-serif;
+    font-size: 1.2rem;
+    font-weight: 900;
+    cursor: pointer;
+    color: #222F40;
+    background-color: brown;
+    box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.75);
+}
+
+h2{
+    text-align: center;
+    font-family: 'Mooli', sans-serif;
+    font-size: 2rem;
+    font-weight: 900;
+    text-decoration: underline;
+    color: #222F40;
+}
+
+.section_characters{
+    display: flex;
+    justify-content: space-between;
+}
+
+.section_characters__box{
+    text-align: center;
+    width: 15rem;
+}
+
+.section_characters__box img{
+    width: 6rem;
+}
+
+.section_characters__box p{
+    font-family: 'Mooli', sans-serif;
+    color: #222F40;
+    font-weight: 600;
+}
+
+.section_quote{
+    display: flex;
+    justify-content: center;
+}
+
+.section_quote__box{
+    background-image: url(../assets/img/floor.png);
+    width: 53rem;
+    padding: 1.5rem;
+}
+
+.section_quote__phrase{
+    font-family: 'Mooli', sans-serif;
+    text-align: justify;
+    font-style: italic;
+    font-size: 1.2rem;
+}
+
+.section_quote__name{
+    display: flex;
+    justify-content: end;
+    margin-right: 2rem;
+    font-size: 1.5rem;
+}
+
+.section_news{
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+}
+
+.section_news_box{
+    background-image: url(../assets/img/floor2.png);
+    display: flex;
+    justify-content: center;
+    width: 40rem;
+}
+
+.section_news_info{
+    width: 20rem;
+    font-family: 'Mooli', sans-serif;
+}
+
+.section_news_info h4{
+    margin-bottom: 0.6rem;
+}
+
+.section_news_info p{
+    margin-top: 0.6rem;
+}
+
+.section_news_button{
+    margin: 3rem;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    font-weight: bolder;
+}
